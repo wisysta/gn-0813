@@ -14,7 +14,7 @@ export default function Home() {
                 />
                 <ol className="font-mono list-inside list-decimal text-sm/6 text-center sm:text-left">
                     <li className="mb-2 tracking-[-.01em] text-5xl">
-                        강남구청 08 13 선택특강 .
+                        강남구청 08 13 선택특강 2번째 배포 입니다.
                     </li>
                 </ol>
 
